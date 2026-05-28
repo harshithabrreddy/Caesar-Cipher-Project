@@ -12,7 +12,7 @@ This project demonstrates basic cryptography concepts using Caesar Cipher encryp
 * User-defined shift key
 * Supports uppercase and lowercase letters
 
-  🛠️ Technologies Used
+🛠️ Technologies Used
 * Python 3
 
 ▶️ How to Run
